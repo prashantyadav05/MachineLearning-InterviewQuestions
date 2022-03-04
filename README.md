@@ -1,5 +1,5 @@
 # Common interview questions asked in Machine Learning interviews:
-A repository to prepare machine learning interview, involving most of the questions asked.
+A repository to prepare for machine learning interview, involving most of the questions asked.
 ## Difference between Supervised and Unsupervised Learning?
 Supervised learning is when you know the outcome and you are provided with the fully labeled outcome data while in unsupervised you are not 
 provided with labeled outcome data. Fully labeled means that each example in the training dataset is tagged with the answer the algorithm should 
