@@ -2,8 +2,7 @@
 A repository to prepare for machine learning interview, involving most of the questions asked.
 ## Difference between Supervised and Unsupervised Learning?
 Supervised learning is when you know the outcome and you are provided with the fully labeled outcome data while in unsupervised you are not 
-provided with labeled outcome data. Fully labeled means that each example in the training dataset is tagged with the answer the algorithm should 
-come up with on its own. So, a labeled dataset of flower images would tell the model which photos were of roses, daisies and daffodils. When shown a new image, the model compares it to the training examples to predict the correct label.
+provided with labeled outcome data. It is called supervised learning because the process of an algorithm learning from the training dataset can be thought of as a teacher supervising the learning process. We know the correct answers; the algorithm iteratively makes predictions on the training data and is corrected bymaking updates. Fully labeled means that each example in the training dataset is tagged with the answer the algorithm should come up with on its own. So, a labeled dataset of flower images would tell the model which photos were of roses, daisies and daffodils. When shown a new image, the model compares it to the training examples to predict the correct label.
 ## What is Reinforcment Learning and how would you define it?
 A learning differs from supervised learning in not needing labelled input/output pairs be presented, and in not needing sub-optimal actions to be 
 explicitly corrected. Instead the focus is on finding a balance between exploration (of uncharted territory) and exploitation (of current 
